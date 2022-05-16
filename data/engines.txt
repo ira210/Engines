@@ -378,9 +378,9 @@ outfit "Greyhound Plasma Steering"
 	"mass" 26
 	"outfit space" -26
 	"engine capacity" -26
-	"turn" 590
-	"turning energy" 0.9
-	"turning heat" 2.1
+	"turn" 532
+	"turning energy" 087
+	"turning heat" 1.91
 	"steering flare sprite" "effect/plasma flare/small"
 		"frame rate" 6
 	"steering flare sound" "plasma small"
@@ -394,9 +394,9 @@ outfit "Impala Plasma Steering"
 	"mass" 43
 	"outfit space" -43
 	"engine capacity" -43
-	"turn" 1133
-	"turning energy" 1.6
-	"turning heat" 4.1
+	"turn" 880
+	"turning energy" 1.43
+	"turning heat" 3.15
 	"steering flare sprite" "effect/plasma flare/medium"
 		"frame rate" 7
 	"steering flare sound" "plasma medium"
@@ -410,9 +410,9 @@ outfit "Orca Plasma Steering"
 	"mass" 74
 	"outfit space" -74
 	"engine capacity" -74
-	"turn" 2283
-	"turning energy" 2.9
-	"turning heat" 7.7
+	"turn" 1515
+	"turning energy" 2.47
+	"turning heat" 5.43
 	"steering flare sprite" "effect/plasma flare/large"
 		"frame rate" 8
 	"steering flare sound" "plasma large"
@@ -426,9 +426,9 @@ outfit "Tyrant Plasma Steering"
 	"mass" 101
 	"outfit space" -101
 	"engine capacity" -101
-	"turn" 3549
-	"turning energy" 4.4
-	"turning heat" 12.5
+	"turn" 2067
+	"turning energy" 3.37
+	"turning heat" 7.41
 	"steering flare sprite" "effect/plasma flare/huge"
 		"frame rate" 9
 	"steering flare sound" "plasma huge"
@@ -478,9 +478,9 @@ outfit "A250 Atomic Thruster"
 	"thruster point" -0
 	"outfit space" -34
 	"engine capacity" -34
-	"thrust" 27.3
-	"thrusting energy" 3.1
-	"thrusting heat" 6.1
+	"thrust" 23.8
+	"thrusting energy" 2.78
+	"thrusting heat" 5.41
 	"flare sprite" "effect/atomic flare/small"
 		"frame rate" 13
 	"flare sound" "atomic small"
@@ -494,9 +494,9 @@ outfit "A370 Atomic Thruster"
 	"outfit space" -53
 	"thruster point" -0
 	"engine capacity" -53
-	"thrust" 47.6
-	"thrusting energy" 5.1
-	"thrusting heat" 10.3
+	"thrust" 37.1
+	"thrusting energy" 4.34
+	"thrusting heat" 8.43
 	"flare sprite" "effect/atomic flare/medium"
 		"frame rate" 12
 	"flare sound" "atomic medium"
@@ -510,9 +510,9 @@ outfit "A520 Atomic Thruster"
 	"outfit space" -82
 	"thruster point" -0
 	"engine capacity" -82
-	"thrust" 81.9
-	"thrusting energy" 8.3
-	"thrusting heat" 17.4
+	"thrust" 57.4
+	"thrusting energy" 6.71
+	"thrusting heat" 13.05
 	"flare sprite" "effect/atomic flare/large"
 		"frame rate" 11
 	"flare sound" "atomic large"
@@ -526,9 +526,9 @@ outfit "A860 Atomic Thruster"
 	"outfit space" -127
 	"thruster point" -0
 	"engine capacity" -127
-	"thrust" 139.7
-	"thrusting energy" 13.3
-	"thrusting heat" 29.1
+	"thrust" 88.9
+	"thrusting energy" 10.39
+	"thrusting heat" 20.20
 	"flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
 	"flare sound" "atomic huge"
@@ -557,9 +557,9 @@ outfit "A255 Atomic Steering"
 	"mass" 25
 	"outfit space" -25
 	"engine capacity" -25
-	"turn" 704
-	"turning energy" 1.5
-	"turning heat" 3.7
+	"turn" 628
+	"turning energy" 1.41
+	"turning heat" 3.44
 	"steering flare sprite" "effect/atomic flare/small"
 		"frame rate" 13
 	"steering flare sound" "atomic small"
@@ -572,9 +572,9 @@ outfit "A375 Atomic Steering"
 	"mass" 38
 	"outfit space" -38
 	"engine capacity" -38
-	"turn" 1222
-	"turning energy" 2.5
-	"turning heat" 6.3
+	"turn" 955
+	"turning energy" 2.14
+	"turning heat" 5.23
 	"steering flare sprite" "effect/atomic flare/medium"
 		"frame rate" 12
 	"steering flare sound" "atomic medium"
@@ -587,9 +587,9 @@ outfit "A525 Atomic Steering"
 	"mass" 60
 	"outfit space" -60
 	"engine capacity" -60
-	"turn" 2101
-	"turning energy" 4.1
-	"turning heat" 10.5
+	"turn" 1508
+	"turning energy" 3.38
+	"turning heat" 8.25
 	"steering flare sprite" "effect/atomic flare/large"
 		"frame rate" 11
 	"steering flare sound" "atomic large"
@@ -602,9 +602,9 @@ outfit "A865 Atomic Steering"
 	"mass" 92
 	"outfit space" -92
 	"engine capacity" -92
-	"turn" 3597
-	"turning energy" 6.6
-	"turning heat" 17.5
+	"turn" 2312
+	"turning energy" 5.18
+	"turning heat" 12.65
 	"steering flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
 	"steering flare sound" "atomic huge"
